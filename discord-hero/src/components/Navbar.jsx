@@ -4,8 +4,8 @@ import menuIcon from '../assets/menu-icon.png'
 function Navbar() {
     return (
         <nav>
-            <img src={discordLogo} class="nav-left" />
-            <img src={menuIcon} class="nav-right" />    
+            <img src={discordLogo} className="nav-left" />
+            <img src={menuIcon} className="nav-right" />    
         </nav>
     )
 }

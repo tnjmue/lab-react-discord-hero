@@ -1,6 +1,6 @@
 function OpenButton() {
     return (
-        <button class="button" id="open">Open Discord in your browser</button>
+        <button className="button" id="open">Open Discord in your browser</button>
     )
 }
 

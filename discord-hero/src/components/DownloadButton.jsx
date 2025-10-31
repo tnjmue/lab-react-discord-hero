@@ -1,6 +1,6 @@
 function DownloadButton() {
 return (
-   <button class="button" id="download">Download for Mac</button> 
+   <button className="button" id="download">Download for Mac</button> 
 )
 }
 
